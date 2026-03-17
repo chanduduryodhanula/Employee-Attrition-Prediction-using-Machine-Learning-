@@ -51,13 +51,6 @@ Many organizations struggle to understand why employees leave. By using historic
 
 ---
 
-## 🚀 Future Improvements
-- Deploy the model as a web application  
-- Create dashboards for HR teams  
-- Improve model explainability  
-
----
-
 ## 👤 Author
 Chandu Duryodhanula  
 Aspiring Machine Learning Engineer
